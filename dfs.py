@@ -24,7 +24,6 @@ graph = []
 for i in range(n):
     graph.append(list(map(int,input())))
 
-
 visited = [[False] * m for _ in range(n)]
 
 result = 0
@@ -33,4 +32,3 @@ for i in range(n):
     for j in range(m):
         if visited[i][j] != True and graph[i][j] != 1:
             result += dfs(graph,i,j,visited)
-            print(i,j)
