@@ -4,7 +4,7 @@
 
 This document explains how to set up the game file and execute it.
 
-## Installation Process
+## 1. Installation Process
 
 ---
 
@@ -12,7 +12,7 @@ This document explains how to set up the game file and execute it.
 2. Unzip the file.
 3. Open the project using unity hub.
 
-## GamePlay Process
+## 2. GamePlay Process
 
 ---
 
